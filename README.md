@@ -30,6 +30,9 @@ Java のプログラムを書いていくツール、エディタは Microsoft �
 開発者に適した VSCode ポータブル版の導入方法:  
 [https://github.com/fs5013-furi-sutao/explain.how_to_install_vscode.portable](https://github.com/fs5013-furi-sutao/explain.how_to_install_vscode.portable)
 
+Scoop を使って VSCode ポータブル版をインストールする方法もある。頻繁に通知の来るバージョンアップの手間が省けるので、こちらの方法がお勧め。
+https://github.com/fs5013-furi-sutao/explain.how_to_install_vscode_portable.with_scoop
+
 ## VSCode に Java プロジェクト設定をする
 VSCode はそのままでは Java プログラムを動かせない。Java など特定の言語を動かせるように初期設定されていない。理由は、様々なプログラミング言語に対応できるように、あえてそのように VSCode を設計しているためだ。
 
